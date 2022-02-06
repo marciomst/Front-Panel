@@ -5,7 +5,6 @@
 - 📚 Estudando Desenvolvimento Web/Ciências da Computação Front End & Back End And: + Soft Skills na Trybe
 - ❤️  Busco Sempre correr Atrás de Novos Conhecimentos, pois quando tive o primeiro contato achei maravilhoso da real forma que funciona um Site!
 - 🔭 A Procura da Primeira Oportunidade na Área ...
-- 
 <div align="center">
   <a href="https://github.com/marciomst">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciomst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
