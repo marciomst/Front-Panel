@@ -1,10 +1,20 @@
-### Olá, Prazer! Me Chamo Marcio Soares Thomann 👋
+- ### Olá, Prazer! Me Chamo Marcio Soares Thomann 👋
 - 👨‍👩‍👧 Minha Maior Inspiração é a Minha Familia S2
 - 🙏 Primeiramente Agradeço a DEUS por esse momento na minha vida, uma mudança que só ele sabe o grande que foi 🙏
 - 🎓 Meu Inicio foi Cursando JAVA na Udemy Prof Nelio Alves depois fui para o Curso do ProgramadorBR CSS/HTML/JS 
 - 📚 Estudando Desenvolvimento Web/Ciências da Computação Front End & Back End And: + Soft Skills na Trybe
 - ❤️  Busco Sempre correr Atrás de Novos Conhecimentos, pois quando tive o primeiro contato achei maravilhoso da real forma que funciona um Site!
 - 🔭 A Procura da Primeira Oportunidade na Área ...
+  <br>
+  <br>
+  <h2>English:</h2>
+- ### Hello, Pleasure! My name is Marcio Soares Thomann 👋
+- 👨‍👩‍👧 My Biggest Inspiration is My Family S2
+- 🙏 First I thank GOD for this moment in my life, a change that only he knows how great it was 🙏
+- 🎓 My Start was Studying JAVA at Udemy Prof Nelio Alves then I went to the Programmer CourseBR CSS/HTML/JS
+- 📚 Studying Web Development/Computer Science Front End & Back End And: + Soft Skills at Trybe
+- ❤️ I always seek to run After New Knowledge, because when I had the first contact I found it wonderful in the real way that a Website works!
+- 🔭 The Search for the First Opportunity in the ...
 <div align="center">
   <a href="https://github.com/marciomst">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciomst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
