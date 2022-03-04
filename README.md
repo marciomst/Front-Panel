@@ -12,7 +12,7 @@
 - ### Hello, Pleasure! My name is Marcio Soares Thomann 👋
 - 👨‍👩‍👧 My Biggest Inspiration is My Family S2
 - 🙏 First I thank GOD for this moment in my life, a change that only he knows how great it was 🙏
-- 🎓 My Start was Studying JAVA at Udemy Prof Nelio Alves then I went to the Programmer CourseBR CSS/HTML/JS
+- 🎓 My Start was Studying JAVA at Udemy Prof Nelio Alves then I went to the Course ProgrammerBR FullStack
 - 📚 Studying Web Development/Computer Science Front End & Back End And: + Soft Skills at Trybe
 - ❤️ I always seek to run After New Knowledge, because when I had the first contact I found it wonderful in the real way that a Website works!
 - 🔭 The Search for the First Opportunity in the ...
