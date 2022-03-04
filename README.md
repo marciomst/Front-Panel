@@ -1,7 +1,7 @@
 - ### Olá, Prazer! Me Chamo Marcio Soares Thomann 👋
 - 👨‍👩‍👧 Minha Maior Inspiração é a Minha Familia S2
 - 🙏 Primeiramente Agradeço a DEUS por esse momento na minha vida, uma mudança que só ele sabe o grande que foi 🙏
-- 🎓 Meu Inicio foi Cursando JAVA na Udemy Prof Nelio Alves depois fui para o Curso do ProgramadorBR CSS/HTML/JS 
+- 🎓 Meu Inicio foi Cursando JAVA na Udemy Prof Nelio Alves depois fui para o Curso do ProgramadorBR FullStack 
 - 📚 Estudando Desenvolvimento Web/Ciências da Computação Front End & Back End And: + Soft Skills na Trybe
 - ❤️  Busco Sempre correr Atrás de Novos Conhecimentos, pois quando tive o primeiro contato achei maravilhoso da real forma que funciona um Site!
 - 🔭 A Procura da Primeira Oportunidade na Área ...
